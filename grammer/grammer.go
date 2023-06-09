@@ -597,6 +597,6 @@ func main() {
 	//anonymous_func_routin_phase()
 	//channel_phase()
 	//channel_buffer_phase()
-	channel_case_phase()
+	//channel_case_phase()
 }
 
